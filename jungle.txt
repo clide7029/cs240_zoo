@@ -1,0 +1,7 @@
+100010 piranhas
+1 tiger
+3 wild board
+11 warthogs
+1 panther
+112 tree frogs
+1 python
